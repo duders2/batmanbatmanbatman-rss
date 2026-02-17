@@ -2,14 +2,14 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Giant Bomb Audio Only Podcast Archive</title>
-    <link>https://www.giantbomb.com</link>
+    <link>https://archive.org/details/giant-bomb-audio</link>
     <description>Giant Bomb is a website about video games founded by Jeff Gerstmann and Ryan Davis in 2008.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://static.wikia.nocookie.net/logopedia/images/4/49/Giant_Bomb_2008.png</url>
+      <url>https://github.com/duders2/batmanbatmanbatman-rss/blob/main/bombcast.jpg?raw=true</url>
       <title>Giant Bomb Audio Only Podcast Archive</title>
-      <link>https://www.giantbomb.com</link>
+      <link>https://archive.org/details/giant-bomb-audio</link>
       <width>144</width>
       <height>144</height>
     </image>
